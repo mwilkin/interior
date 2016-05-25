@@ -2,9 +2,24 @@ img{
   height: 240px;
 }
 
-.column {
-
+.column1 {
   background-color: #C9D3D6;
+  float: left;
+  text-align: center;
+  padding: 0px 10px 15px 10px;
+  width: 25%;
+}
+
+.column2 {
+  background-color: #84DCC6;
+  float: left;
+  text-align: center;
+  padding: 0px 10px 15px 10px;
+  width: 25%;
+}
+
+.column3 {
+  background-color: #FFA69E;
   float: left;
   text-align: center;
   padding: 0px 10px 15px 10px;
